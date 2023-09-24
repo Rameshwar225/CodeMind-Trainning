@@ -18,6 +18,7 @@ public class CountFreaquencyOfChar {
 				}
 			}
 			System.out.println(arr[i]+": "+count);
+			System.out.println("Wrong code");
 		}
 
 	}
