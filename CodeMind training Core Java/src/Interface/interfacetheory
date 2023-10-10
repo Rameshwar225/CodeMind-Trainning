@@ -1,0 +1,22 @@
+used to acchive abstract
+it contends method without body
+we cann't create object
+used to implement multiple inheritence cause it doennot have any method implementation
+it contenct public "static varible" if we not write that compiler automatically understand 
+we can make the body of default 
+
+syntax for creating object
+
+**interface name = new implementedclassname** 
+
+
+tight coupling -> jya class madhi method aahe tyach class cha object create karaycha
+example-> A obj1 = new A()
+loose compling -> aapn interfcae ch object bnvto aani constructor implemented class cha krto like above example
+example -> A obj1 = new B()
+
+
+we can do like below
+interface1 a extends interface2 
+claas a implements interfaceA
+classA extends classB
